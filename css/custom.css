@@ -1,0 +1,81 @@
+body {
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+}
+
+.Navigation_header_22cJf {
+  background: #03033d;
+  right: 0;
+  left: 0;
+  top: 0;
+  height: 68px;
+  display: block;
+  -webkit-box-shadow: 0 -3px 13px 3px rgba(3,3,61,.5);
+  box-shadow: 0 -3px 13px 3px rgba(3,3,61,.5);
+}
+
+.superTitle {
+  font-family: "Avenir Next", Avenir, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, sans-serif;
+  padding-left: 1em;
+  color: #fff;
+  display: inline;
+  vertical-align: middle;
+}
+
+.everactive-blue-background {
+  background: #03033d;
+  color: #fff;
+}
+
+.header-logo {
+  width: 183px;
+  height: 59px;
+  margin: 4px;
+  vertical-align: middle;
+
+}
+
+.first-p {
+  padding-top: 2em;
+}
+
+.example {
+  position: relative;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+}
+
+.example-screenshot-wrapper {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  border-radius: 6px;
+  border: 1px solid #eee;
+  height: 250px;
+  width: 98%;
+  left: 0;
+}
+
+.github-icon {
+  width: 32px;
+}
+
+.tile-title {
+  text-align: center;
+}
+
+.tile-desc {
+  margin-left: 2em;
+  margin-bottom: 1em;
+}
+
+.tile-button {
+  vertical-align: middle;
+}
+
+.github-icon {
+  vertical-align: middle;
+  margin-bottom: 2px;
+}
